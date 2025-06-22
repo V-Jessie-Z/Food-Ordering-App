@@ -58,6 +58,9 @@ The images used in this app are for demonstration purposes and are not owned by 
 
 ## 🌐 Deployment
 This app is deployed using GitHub Pages.
+
+**Live Demo:** [Click here to try it!](https://v-jessie-z.github.io/Food-Ordering-App/tabs/home)
+
 To deploy your own version:
 
 - ionic build --prod
